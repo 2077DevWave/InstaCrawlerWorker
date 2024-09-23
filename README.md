@@ -1,5 +1,8 @@
 # InstaCrawlerWorker
-A cloudflare worker to crawel instagram reels
+A cloudflare worker to crawel instagram reels/posts
+
+## Features
+- return caption of reel/post
 
 ## HOW TO USE?
 1. create a new worker in Cloudflare
